@@ -2,3 +2,5 @@ This is a quick test.
 line 2
 line 3
 line 4 from Github
+line 5 appended locally
+line 6 also appended locally
